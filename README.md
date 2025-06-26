@@ -55,5 +55,71 @@ This project focuses on analyzing retail transaction data to uncover key insight
 
 ## 📂 Project Structure
 
+---
+
+## 📈 Key Analyses Performed
+
+- **Total Revenue & Profit Calculation**
+- **Monthly Sales Trends**
+- **Top-Selling Products**
+- **Customer Purchase Behavior**
+- **Category-wise Sales Contribution**
+- **Region-wise Performance**
+- **Year-over-Year Comparison**
+
+---
+
+## 📊 Dashboards (in Tableau)
+
+The Tableau workbook includes the following interactive dashboards:
+
+- **Sales Overview**
+- **Category & Sub-Category Breakdown**
+- **Top Customers & Products**
+- **Profit & Discount Analysis**
+- **Geographic Sales Trends**
+
+> **Note**: To view the Tableau dashboards, open `SalesAnalysis.twb` in Tableau Desktop or Tableau Public.
+
+---
+
+## 🚀 How to Run the Project
+
+### 1. Prerequisites
+
+- Jupyter Notebook environment (Anaconda / VSCode / Jupyter Lab)
+- Tableau Desktop or Tableau Public
+- SQL environment (e.g., SQLite or a SQL database compatible with the queries used)
+
+### 2. Steps
+
+1. Open the `Sales_Analytics_for_Retail_Business_SQL.ipynb` notebook.
+2. Run each SQL query to explore different aspects of the data.
+3. Open the `SalesAnalysis.twb` file in Tableau to view visual dashboards.
+4. Use filters and interactivity to explore insights in Tableau.
+
+---
+
+## 📚 Learnings & Outcomes
+
+- Gained hands-on experience with real-world retail data.
+- Practiced SQL querying for business intelligence.
+- Built meaningful and interactive Tableau dashboards.
+- Understood key sales KPIs and business trends.
+
+---
+
+## ✍️ Author
+
+- **Name:** Alfiya Ansari  
+- **Role:** Aspiring Data Scientist | Master's in Web and Data Science  
+
+---
+
+## 📝 License
+
+This project is for educational and portfolio purposes only.
+
+
 
 

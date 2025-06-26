@@ -1,9 +1,6 @@
-# Data-Analysis
-A collection of data analysis projects showcasing skills in Data Cleaning, Visualization, Exploratory Data Analysis, Statistical Analysis, Deriving Insights and Interactive Dashboards using tools like Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Poltly) and Tableau/PowerBI.
+# 📊 Data Analysis 
 
-# 📊 Data Analysis Portfolio
-
-Welcome! This repository showcases a variety of data analysis projects focused on real-world datasets. Each project demonstrates skills in:
+Welcome!A collection of data analysis projects showcasing skills in Data Cleaning, Visualization, Exploratory Data Analysis, Statistical Analysis, Deriving Insights and Interactive Dashboards using tools like Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Poltly) and Tableau/PowerBI.This repository showcases a variety of data analysis projects focused on real-world datasets. Each project demonstrates skills in:
 
 - 📌 Data cleaning and preprocessing
 - 📈 Exploratory Data Analysis (EDA)

@@ -28,3 +28,32 @@ Each folder contains:
 ## 📬 Contact
 Feel free to connect or collaborate. Contributions, suggestions, or feedback are welcome!
 
+
+
+-----------
+# 📊 Sales Analytics for Retail Business
+
+This project focuses on analyzing retail transaction data to uncover key insights into sales performance, customer behavior, and product trends. It uses **SQL** for data analysis and **Tableau** for interactive dashboards and visualizations.
+
+---
+
+## 📌 Objectives
+
+- Perform data cleaning and transformation using SQL.
+- Analyze sales, revenue, and customer trends.
+- Generate actionable insights through interactive Tableau dashboards.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **SQL** (via Jupyter Notebook): Data querying, aggregation, and transformation.
+- **Tableau**: Data visualization and dashboard creation.
+- **Jupyter Notebook**: For organizing and documenting SQL queries and results.
+
+---
+
+## 📂 Project Structure
+
+
+

@@ -43,38 +43,7 @@ This project presents an exploratory data analysis (EDA) of a dataset containing
 - Some categories have longer or shorter average trip times
 - Outliers were present in trip distances and durations, and were treated appropriately
 
-## 🚀 Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/ride-hailing-data-analysis.git
-   cd ride-hailing-data-analysis
-````
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the notebook:
-   Open `Ride Hailing Data Analysis.ipynb` using Jupyter Notebook or Jupyter Lab.
-
-## 👩‍💻 Author
-
-**Alfiya Ansari**
-📧 [alfiyaansari175@gmail.com](mailto:alfiyaansari175@gmail.com)
-
----
-
 Made with ❤️ by Alfiya
-
-```
-
----
-
-Would you like me to generate this as an actual `README.md` file and save it for download?
-```
 
 
 Made with ❤️ by Alfiya Ansari

@@ -1,4 +1,3 @@
-````markdown
 # Ride Hailing Data Analysis Project
 
 This project presents an exploratory data analysis (EDA) of a dataset containing trip information, likely from a ride-hailing service. The goal is to uncover temporal, spatial, and categorical patterns in the trip data and provide visual insights into travel behavior.

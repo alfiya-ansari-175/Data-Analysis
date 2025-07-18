@@ -15,7 +15,6 @@ The main goal is to analyze various factors affecting home sale prices using dat
 - Exploratory Data Analysis (EDA)
 - Feature encoding and transformation
 - Statistical hypothesis testing
-- Linear regression modeling
 
 ---
 
@@ -69,5 +68,4 @@ OLS regression and ANOVA tests were used to evaluate statistical significance of
 
 ---
 
-## 📂 Project Structure
 
